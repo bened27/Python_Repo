@@ -9,3 +9,6 @@ open-source data sets from Instacart containing the following parameters:
 - departments
 - orders
 - products
+# Tools
+- Pandas for data analysis
+- seaborn for visualisation
